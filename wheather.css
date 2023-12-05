@@ -1,0 +1,21 @@
+body{
+    background-color: #bed0e9
+}
+
+.form-control::-webkit-input-placeholder { 
+    color: white;
+}
+
+#bluec{
+    background-color: #667a97;
+}
+
+h1{
+    color: #F0F0F2;
+}
+
+
+#btnse{
+    color: #F0F0F2 ;
+    background-color: #202B3B;
+}
